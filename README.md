@@ -20,10 +20,13 @@
 
 ###
 
-<p align="left">Me aventurando pelo mundo do backend em Java, JavaScript, TypeScript e outras tecnologias maravilhosas. :)<br><br>- 📚 Atualmente estudando Java, MongoDB e AWS<br><br>- ⚡ No tempo livre eu gosto de curtir algum game no PC, assistir animes ou séries e tocar violão o/</p>
+<p align="left">Me aventurando pelo mundo do backend em Java, JavaScript, TypeScript e outras tecnologias maravilhosas :)<br>
+  <br>- 📚 Atualmente estudando Java, MongoDB e AWS<br>
+  <br>- ⚡ No tempo livre eu gosto de curtir algum game no PC, assistir animes ou séries e tocar violão o/</p>
 
 ###
 
+<br>
 <h3 align="left">🛠 Tecnologias</h3>
 
 
@@ -71,6 +74,7 @@
 
 ###
 
+<br>
 <h3 align="left">📊 Status</h3>
 
 <div>
