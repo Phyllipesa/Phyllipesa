@@ -67,7 +67,6 @@
 </div>
 
 <h3 align="left">📊 Status</h3>
-
 <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Phyllipesa&show_icons=true&theme=transparent&hide_border=true"> 
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phyllipesa&layout=compact&theme=transparent&hide_border=true"> 
