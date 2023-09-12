@@ -23,10 +23,8 @@
 <p align="left">Me aventurando pelo mundo do backend em Java, JavaScript, TypeScript e outras tecnologias maravilhosas :)<br>
   <br>- 📚 Atualmente estudando Java, MongoDB e AWS<br>
   <br>- ⚡ No tempo livre eu gosto de curtir algum game no PC, assistir animes ou séries e tocar violão o/</p>
-
-<br>
+  
 <h3 align="left">🛠 Tecnologias</h3>
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
@@ -68,7 +66,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="express logo"  />
 </div>
 
-<br>
 <h3 align="left">📊 Status</h3>
 
 <div>
