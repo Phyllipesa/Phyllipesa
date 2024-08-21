@@ -21,7 +21,7 @@
 ###
 
 <p align="left">Me aventurando pelo mundo do backend em Java, JavaScript, TypeScript e outras tecnologias maravilhosas :)<br>
-  <br>- 📚 Atualmente estudando Java e MongoDB<br>
+  <br>- 📚 Atualmente estudando Angular, MongoDB, Vue e Golang<br>
   <br>- ⚡ No tempo livre eu gosto de curtir algum game no PC, assistir animes ou séries e tocar violão o/</p>
   
 <h3 align="left">🛠 Tecnologias</h3>
